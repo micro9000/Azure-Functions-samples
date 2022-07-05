@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtractCompressedFilesAndProcessCSV": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error --port 7209"
+    }
+  }
+}
