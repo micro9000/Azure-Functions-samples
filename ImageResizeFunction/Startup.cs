@@ -1,4 +1,4 @@
-﻿using ImageResizeFunction.Services;
+﻿ using ImageResizeFunction.Services;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
